@@ -30,15 +30,15 @@ La base de datos permite registrar hogares afectados, identificar sus necesidade
 3. **Resolución de Reglas.**
 
       Código: Condición verificable.
-- [ ] R-01: Cada hogar tiene un identificador estable, aunque cambie su lugar temporal de permanencia.
-- [ ] R-02: Un hogar puede reportar distintos tipos de necesidad.
-- [ ] R-03: Un tipo de necesidad puede aparecer en los reportes de muchos hogares.
+- [x] R-01: Cada hogar tiene un identificador estable, aunque cambie su lugar temporal de permanencia.
+- [x] R-02: Un hogar puede reportar distintos tipos de necesidad.
+- [x] R-03: Un tipo de necesidad puede aparecer en los reportes de muchos hogares.
 - [ ] R-04: El reporte debe conservar datos propios de la relación, como urgencia, cantidad estimada, estado y observación.
-- [ ] R-05: Un donante puede realizar varias donaciones.
+- [x] R-05: Un donante puede realizar varias donaciones.
 - [ ] R-06: Una donación puede incluir distintos tipos de ayuda, cada uno con cantidad y unidad de medida.
 - [ ] R-07: El mismo tipo de ayuda puede aparecer en distintas donaciones.
 - [ ] R-08: Un hogar puede recibir varias entregas en momentos diferentes.
-- [ ] R-09: Cada entrega ocurre en un solo punto de atención, pero un punto registra muchas entregas.
+- [x] R-09: Cada entrega ocurre en un solo punto de atención, pero un punto registra muchas entregas.
 - [ ] R-10: Una entrega puede incluir varios tipos de ayuda y un tipo de ayuda puede aparecer en muchas entregas.
 - [ ] R-11: La cantidad entregada pertenece al detalle de la entrega, no al hogar ni al tipo de ayuda.
 - [ ] R-12: Debe diferenciarse la fecha de entrega de la fecha de registro en el sistema.
